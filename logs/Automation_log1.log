@@ -1,0 +1,27 @@
+2023-07-09 01:28:56,771 : INFO  : Test_002_login_DDT : test_Login_DDT : 17 : **** verifying Test_002_login_DDT test ****
+2023-07-09 01:29:12,510 : INFO  : Test_002_login_DDT : test_Login_DDT : 58 : ** test_Login_DDT is failed
+2023-07-09 01:29:24,806 : INFO  : Test_002_login_DDT : test_Login_DDT : 62 : ** test_Login_DDT is passed
+2023-07-09 01:29:37,116 : INFO  : Test_002_login_DDT : test_Login_DDT : 62 : ** test_Login_DDT is passed
+2023-07-09 01:29:50,620 : INFO  : Test_002_login_DDT : test_Login_DDT : 62 : ** test_Login_DDT is passed
+2023-07-09 01:29:52,628 : INFO  : Test_002_login_DDT : test_Login_DDT : 67 : ** Test_001_login_DDT is passed **
+2023-09-05 22:09:17,033 : INFO : Test_001_login : test_Homepage_Title : 16 : **** Test_001_login ****
+2023-09-05 22:09:17,054 : INFO : Test_001_login : test_Homepage_Title : 17 : **** verifying homepage title ****
+2023-09-05 22:09:17,054 : INFO : Test_001_login : test_Homepage_Title : 19 : open url
+2023-09-05 22:09:21,799 : INFO : Test_001_login : test_Homepage_Title : 24 : ****  homepage title page is verified  ****
+2023-09-05 22:09:26,107 : INFO : Test_001_login : test_Login : 34 : **** verifying login test ****
+2023-09-05 22:09:38,816 : INFO : Test_001_login : test_Login : 47 : **** login page title is passed  ****
+2023-09-05 22:09:43,462 : INFO : Test_002_login_DDT : test_Login_DDT : 17 : **** verifying Test_002_login_DDT test ****
+2023-09-30 20:44:55,223 : INFO : Test_001_login : test_Login : 34 : **** verifying login test ****
+2023-09-30 20:45:05,055 : INFO : Test_001_login : test_Login : 47 : **** login page title is passed  ****
+2023-09-30 20:47:31,658 : INFO : Test_001_login : test_Homepage_Title : 16 : **** Test_001_login ****
+2023-09-30 20:47:31,658 : INFO : Test_001_login : test_Homepage_Title : 17 : **** verifying homepage title ****
+2023-09-30 20:47:31,658 : INFO : Test_001_login : test_Homepage_Title : 19 : open url
+2023-09-30 20:47:36,306 : INFO : Test_001_login : test_Homepage_Title : 24 : ****  homepage title page is verified  ****
+2023-09-30 20:47:37,679 : INFO : Test_001_login : test_Login : 34 : **** verifying login test ****
+2023-09-30 20:47:45,018 : INFO : Test_001_login : test_Login : 47 : **** login page title is passed  ****
+2023-09-30 20:48:07,586 : INFO : Test_001_login : test_Homepage_Title : 16 : **** Test_001_login ****
+2023-09-30 20:48:07,586 : INFO : Test_001_login : test_Homepage_Title : 17 : **** verifying homepage title ****
+2023-09-30 20:48:07,586 : INFO : Test_001_login : test_Homepage_Title : 19 : open url
+2023-09-30 20:48:11,534 : INFO : Test_001_login : test_Homepage_Title : 24 : ****  homepage title page is verified  ****
+2023-09-30 20:48:12,873 : INFO : Test_001_login : test_Login : 34 : **** verifying login test ****
+2023-09-30 20:48:20,897 : INFO : Test_001_login : test_Login : 47 : **** login page title is passed  ****
